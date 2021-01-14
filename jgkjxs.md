@@ -2,26 +2,24 @@
 
 ### 后端框架
 
- 1. Spring Boot 
- 2. Spring Cloud
- 
+ * Spring Boot 
+ * Spring Cloud
  
 ### 前端框架
-  1. VUE
+ * VUE
   
 ### 容器
-1. Docker
-2. VM
+* Docker
+* VM
    
 ### 弹性资源
-K8S
+* K8S
 
 ### Serverless
-云：Fass , Pass 两种形式
-按需收费，但目前不成熟
+* 云：Fass , Pass 两种形式
+* 按需收费，但目前不成熟
 
 ### Servicemesh
-lisio 网关模式
+* lisio 网关模式
 
 
- 
